@@ -1,0 +1,21 @@
+{
+    "font_size": 120,
+    "text_color": "#000000",
+    "text_opacity": 1.0,
+    "text_spacing": {
+        "horizontal": -10,
+        "vertical": 30
+    },
+    "chaos_level": 1,
+    "margins": {
+        "left": 250,
+        "right": 60,
+        "top": 210,
+        "bottom": 50
+    },
+    "background": {
+        "current": "background\\四川轻化工大学（1）.jpg",
+        "color": "#faf9de"
+    },
+    "handwriting_font": "云烟体.ttf"
+}
