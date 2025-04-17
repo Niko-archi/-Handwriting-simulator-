@@ -36,5 +36,6 @@
 - B站：秋寒枝叶落
 
 ## 截图示例
+![2a32a9fb4ab319b6e5dc2b40033827e3](https://github.com/user-attachments/assets/821434da-4d68-41ae-8f2e-fbfa6883ace5)
 
-（此处可添加程序界面截图） 
+ 
